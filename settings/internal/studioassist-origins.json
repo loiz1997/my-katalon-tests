@@ -1,0 +1,10 @@
+{
+  "paths": [
+    "Keywords/com/orangehrm/OrangeHrmKeywords.groovy",
+    "Keywords/com/orangehrm/OrangeHrmLaunchKeyword.groovy",
+    "Keywords/com/orangehrm/OrangeHrmLoginKeyword.groovy",
+    "Keywords/com/orangehrm/OrangeHrmNavigationKeyword.groovy",
+    "Keywords/com/orangehrm/OrangeHrmVerificationKeyword.groovy",
+    "Keywords/com/orangehrm/OrangeHrmCloseKeyword.groovy"
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Happy path: log in and open the Leave module using reusable keywords.</description>
+   <name>TC_HP_004_Open_Leave_Module</name>
+   <tag>GenAI,Web,OrangeHRM,HappyPath</tag>
+   <comment>Uses the five separate OrangeHRM keyword files.</comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a614cfe-45f6-4bd4-9796-053f314a4d4d</testCaseGuid>
+</TestCaseEntity>

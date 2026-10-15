@@ -1,0 +1,49 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.callTestCase(findTestCase('Web/OrangeHrm/ReuseTC/LoginAdmin'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.switchToWindowTitle('OrangeHRM')
+
+WebUI.click(findTestObject('Web/OrangeHRM/Page_OrangeHRM/span_Admin'))
+
+WebUI.click(findTestObject('Web/OrangeHRM/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-text-ar'))
+
+WebUI.rightClick(findTestObject('Web/OrangeHRM/Page_OrangeHRM/div_Admin'))
+
+WebUI.click(findTestObject('Web/OrangeHRM/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-text-ar'))
+
+WebUI.rightClick(findTestObject('Web/OrangeHRM/Page_OrangeHRM/div_ESS'))
+
+WebUI.rightClick(findTestObject('Web/OrangeHRM/Page_OrangeHRM/div_ESS_1'))
+
+WebUI.click(findTestObject('Web/OrangeHRM/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-text-ar_1'))
+
+WebUI.rightClick(findTestObject('Web/OrangeHRM/Page_OrangeHRM/span_Enabled'))
+
+WebUI.click(findTestObject('Web/OrangeHRM/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-text-ar_2'))
+
+WebUI.rightClick(findTestObject('Web/OrangeHRM/Page_OrangeHRM/div_ESS'))
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
+// Call the custom keyword with a TestObject and a 10-second timeout
+CustomKeywords.'com.utils.ElementAssertions.assertElementClickable'(findTestObject('Web/OrangeHRM/Page_OrangeHRM/span_Admin'), 10)
+
+WebUI.callTestCase(findTestCase('Web/OrangeHrm/ReuseTC/closeWebBrowser'), [:], FailureHandling.STOP_ON_FAILURE)
+

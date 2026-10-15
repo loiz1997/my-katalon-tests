@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>temp</description>
+   <name>API_CRUD_Workflow</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99ba5369-fed3-46c7-8cc3-c0b266b072cd</testCaseGuid>
+</TestCaseEntity>

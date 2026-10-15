@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UI validation</description>
+   <name>Tc_001_UIValidation</name>
+   <tag>Websmoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f2b308c-e0ab-41c2-a8e6-782cf8432dbd</testCaseGuid>
+</TestCaseEntity>

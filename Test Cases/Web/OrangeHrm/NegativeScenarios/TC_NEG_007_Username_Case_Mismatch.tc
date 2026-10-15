@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify username case mismatch does not authenticate the user.</description>
+   <name>TC_NEG_007_Username_Case_Mismatch</name>
+   <tag>GenAI,negative,orangehrm,login</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5760fb1f-f2b3-4d3a-ba6e-b7e80efe245b</testCaseGuid>
+</TestCaseEntity>

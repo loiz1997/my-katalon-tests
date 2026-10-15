@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Happy path: log in and open the Performance module using reusable keywords.</description>
+   <name>TC_HP_008_Open_Performance_Module</name>
+   <tag>GenAI,Web,OrangeHRM,HappyPath</tag>
+   <comment>Uses the five separate OrangeHRM keyword files.</comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5ea9793-6ec5-40d0-a9a4-19e80945ca6b</testCaseGuid>
+</TestCaseEntity>

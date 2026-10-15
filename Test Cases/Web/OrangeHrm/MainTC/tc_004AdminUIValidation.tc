@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check ui elements are visible</description>
+   <name>tc_004AdminUIValidation</name>
+   <tag>WebAdminSmoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7dd05b9-dfe6-4217-93c0-1b2c7f1d6c89</testCaseGuid>
+</TestCaseEntity>

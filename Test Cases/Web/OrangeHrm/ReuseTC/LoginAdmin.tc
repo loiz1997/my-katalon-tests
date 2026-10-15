@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test login admin successfully</description>
+   <name>LoginAdmin</name>
+   <tag>Websmoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56d088af-6deb-4e1c-8150-1a0961a808c5</testCaseGuid>
+</TestCaseEntity>

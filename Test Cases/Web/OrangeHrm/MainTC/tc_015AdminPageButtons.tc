@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_015AdminPageButtons</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>13bd26e6-42e5-49c8-a820-31e5b29e3ca0</testCaseGuid>
+</TestCaseEntity>

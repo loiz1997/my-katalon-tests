@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testDDTValidlogin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0031b8c9-6640-4555-bd19-7c63c753d60f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3da95879-7a3b-4547-8a66-0b5dacc90d14</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Web/OrangeHRM/TD002_ValidWebTestUser</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3da95879-7a3b-4547-8a66-0b5dacc90d14</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Web_username</value>
+      <variableId>49ea05bb-d85d-4d7c-81fa-daa57e048021</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3da95879-7a3b-4547-8a66-0b5dacc90d14</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Web_password</value>
+      <variableId>25919142-af5c-48e8-9513-d79ea2222ab9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Web/OrangeHRM/TD002_ValidWebTestUser')</defaultValue>
+      <description></description>
+      <id>49ea05bb-d85d-4d7c-81fa-daa57e048021</id>
+      <masked>false</masked>
+      <name>Web_username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Web/OrangeHRM/TD002_ValidWebTestUser')</defaultValue>
+      <description></description>
+      <id>25919142-af5c-48e8-9513-d79ea2222ab9</id>
+      <masked>false</masked>
+      <name>Web_password</name>
+   </variable>
+</TestCaseEntity>

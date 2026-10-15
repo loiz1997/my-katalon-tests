@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Entitlements</name>
+   <tag></tag>
+   <elementGuidId>56054b5d-5b2e-40e7-bd0d-cc5d82be9aec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and contains(concat(' ', normalize-space(@class), ' '), ' --parent ') and (position() = 3)]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab-item ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-topbar-body-nav-tab.--parent:nth-child(3) span.oxd-topbar-body-nav-tab-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Entitlements&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf0af2bb-604d-4f0d-9478-b299b9a2aae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-topbar-body-nav-tab-item</value>
+      <webElementGuid>bc9aa18d-6031-40d3-beb0-ca4fcd218279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entitlements </value>
+      <webElementGuid>7fd0edb8-78ba-45fe-83d1-6bb166333e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a19765abba797c45278e39a5c6f728b5</value>
+      <webElementGuid>044023e0-d610-444e-8e8b-5cc5371294a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and contains(concat(' ', normalize-space(@class), ' '), ' --parent ') and (position() = 3)]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab-item ')]</value>
+      <webElementGuid>7f73e15b-158c-4c16-9d3d-50b725645180</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and contains(concat(' ', normalize-space(@class), ' '), ' --parent ') and (position() = 3)]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab-item ')]</value>
+      <webElementGuid>3c05d559-33b6-48e5-aea4-d95721da6ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Entitlements ' or . = 'Entitlements ')]</value>
+      <webElementGuid>481a7205-c4b6-4210-adb4-4333197735aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

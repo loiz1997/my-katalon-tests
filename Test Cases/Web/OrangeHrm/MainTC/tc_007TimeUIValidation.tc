@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check elements are present in Time page</description>
+   <name>tc_007TimeUIValidation</name>
+   <tag>WebSanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15ac45dd-9a85-4514-9ec9-d30f163e0b53</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0de371ff-25e3-4e59-aafb-ee1fc7b5c83b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Timesheets'</defaultValue>
+      <description></description>
+      <id>0de371ff-25e3-4e59-aafb-ee1fc7b5c83b</id>
+      <masked>false</masked>
+      <name>var_timesheet</name>
+   </variable>
+</TestCaseEntity>

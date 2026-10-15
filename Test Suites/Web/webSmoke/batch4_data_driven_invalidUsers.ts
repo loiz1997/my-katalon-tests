@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>batch4_data_driven_invalidUsers</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <maxConcurrentInstances>6</maxConcurrentInstances>
+   <numberOfRerun>2</numberOfRerun>
+   <orchestration>ISOLATED_PROCESS</orchestration>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2bdc9bb2-6876-4206-8bae-4cb1ee505acd</testSuiteGuid>
+   <testCaseLink>
+      <guid>2d1fe11b-b871-48e7-9212-bdeac6e5a768</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web/OrangeHrm/MainTC/tc_011InvalidLoginUsers</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>08bda8e6-0b5d-4e02-a67d-869f33621cdd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Web/OrangeHRM/TD001_InvalidWebTestUser</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>08bda8e6-0b5d-4e02-a67d-869f33621cdd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>OR_username</value>
+         <variableId>72ab35bd-2b98-4479-ade5-0968d352e5f2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>08bda8e6-0b5d-4e02-a67d-869f33621cdd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>OR_password</value>
+         <variableId>2656c276-fde0-4739-8e4d-e6c0cc4a0f2e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

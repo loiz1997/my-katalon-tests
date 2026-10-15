@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test data for invalid test users</description>
+   <name>tc_011InvalidLoginUsers</name>
+   <tag>WebSmoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af81a9eb-afac-4be7-9824-b0cbce8a9342</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>46b797ae-67f4-4147-8431-5c2e072a444c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Web/OrangeHRM/TD001_InvalidWebTestUser</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>46b797ae-67f4-4147-8431-5c2e072a444c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>OR_username</value>
+      <variableId>72ab35bd-2b98-4479-ade5-0968d352e5f2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>46b797ae-67f4-4147-8431-5c2e072a444c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>OR_password</value>
+      <variableId>2656c276-fde0-4739-8e4d-e6c0cc4a0f2e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Web/OrangeHRM/TD001_InvalidWebTestUser')</defaultValue>
+      <description></description>
+      <id>72ab35bd-2b98-4479-ade5-0968d352e5f2</id>
+      <masked>false</masked>
+      <name>OR_username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Web/OrangeHRM/TD001_InvalidWebTestUser')</defaultValue>
+      <description></description>
+      <id>2656c276-fde0-4739-8e4d-e6c0cc4a0f2e</id>
+      <masked>false</masked>
+      <name>OR_password</name>
+   </variable>
+</TestCaseEntity>

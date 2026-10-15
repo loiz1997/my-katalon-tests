@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>recreate for katalon cert</description>
+   <name>tc_loginAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7bed319c-b280-4395-a962-edadd606b3b1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b4a5bd6-da62-4511-a268-80e713d83ca5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6858603b-9b54-4cc7-91d8-fcfcd2a61f82</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Mobile/ios/DDT001_medtrackAdminLogin')</defaultValue>
+      <description></description>
+      <id>0b4a5bd6-da62-4511-a268-80e713d83ca5</id>
+      <masked>false</masked>
+      <name>MT_username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Mobile/ios/DDT001_medtrackAdminLogin')</defaultValue>
+      <description></description>
+      <id>6858603b-9b54-4cc7-91d8-fcfcd2a61f82</id>
+      <masked>false</masked>
+      <name>MT_password</name>
+   </variable>
+</TestCaseEntity>

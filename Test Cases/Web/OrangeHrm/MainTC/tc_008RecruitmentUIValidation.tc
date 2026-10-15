@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check elements are present in Recruitment page</description>
+   <name>tc_008RecruitmentUIValidation</name>
+   <tag>WebSanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f434bde7-4996-401e-8cd8-8912bcece29b</testCaseGuid>
+</TestCaseEntity>

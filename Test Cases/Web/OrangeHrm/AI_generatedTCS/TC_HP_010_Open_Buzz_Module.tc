@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Happy path: log in and open the Buzz module using reusable keywords.</description>
+   <name>TC_HP_010_Open_Buzz_Module</name>
+   <tag>GenAI,Web,OrangeHRM,HappyPath</tag>
+   <comment>Uses the five separate OrangeHRM keyword files.</comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c35a7328-0023-4ffd-aaf3-824208d31462</testCaseGuid>
+</TestCaseEntity>

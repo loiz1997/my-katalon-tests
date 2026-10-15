@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a whitespace-padded username is rejected.</description>
+   <name>TC_NEG_009_Whitespace_Username</name>
+   <tag>GenAI,negative,orangehrm,login</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfe9a1de-be68-420e-821b-0489af20443a</testCaseGuid>
+</TestCaseEntity>

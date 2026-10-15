@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>replicate for certification purposes</description>
+   <name>TestDroid_katalon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5ee9c23-bac6-4ed3-9f25-a689d7049806</testCaseGuid>
+</TestCaseEntity>

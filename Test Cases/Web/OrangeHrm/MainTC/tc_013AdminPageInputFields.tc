@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_013AdminPageInputFields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a767afe1-f69d-4b2b-b228-142885efc9ac</testCaseGuid>
+</TestCaseEntity>

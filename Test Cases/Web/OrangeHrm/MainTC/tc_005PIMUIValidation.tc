@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check all elements are displayed in PIM page</description>
+   <name>tc_005PIMUIValidation</name>
+   <tag>WebSanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a8ba19b-d497-421a-ba7e-e627d99a26d3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b67e9006-a200-42a5-b65e-753081525162</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Configuration'</defaultValue>
+      <description></description>
+      <id>b67e9006-a200-42a5-b65e-753081525162</id>
+      <masked>false</masked>
+      <name>var_config</name>
+   </variable>
+</TestCaseEntity>
