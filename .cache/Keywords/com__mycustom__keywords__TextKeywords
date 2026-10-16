@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "67AEA900A95D925A2ED924213161E4DC",
+  "keywordClasses": [
+    {
+      "name": "com.mycustom.keywords.TextKeywords",
+      "keywordMethods": [
+        {
+          "name": "assertElementText",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "expectedText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n     * This keyword checks if an element on the screen contains the expected text.\n     * \n     * @param to The Test Object (button, header, paragraph) you want to check.\n     * @param expectedText The exact text you expect to see.\n     */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

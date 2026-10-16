@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "C7CDBCA70B0FBBC7D03D45D9239778AA",
+  "keywordClasses": [
+    {
+      "name": "com.orangehrm.OrangeHrmNavigationKeyword",
+      "keywordMethods": [
+        {
+          "name": "navigateToModule",
+          "parameters": [
+            {
+              "name": "moduleName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
