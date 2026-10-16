@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_company-branding</name>
+   <tag></tag>
+   <elementGuidId>d0f3e1ad-3fa6-48d9-85a6-450275d6d130</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[alt=&quot;company-branding&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@alt = 'company-branding']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;company-branding&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5f8a2991-1a1e-423b-b21c-a786b14f9334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/web/images/ohrm_branding.png?v=1783336755185</value>
+      <webElementGuid>5d698b19-9e3f-45b6-9d57-b94ab2bf4420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>company-branding</value>
+      <webElementGuid>5997cac4-8383-4f59-99b7-0fdce58ae9af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-43dd7506aeb4ce6f8aa654c761a612fb</value>
+      <webElementGuid>cc8c3523-9313-4de3-8fba-a22521317ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@alt = 'company-branding']</value>
+      <webElementGuid>fedd0ff7-9428-47cd-9a79-fbd33458656d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@alt = 'company-branding']</value>
+      <webElementGuid>0be2c036-8f67-4f39-aa0c-939d1004c1a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/web/images/ohrm_branding.png?v=1783336755185' and @alt = 'company-branding']</value>
+      <webElementGuid>944890b7-3ed6-48dc-9595-db760c22f7f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

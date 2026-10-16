@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check that all elements in Leave page are present</description>
+   <name>tc_006LeaveUIValidation</name>
+   <tag>WebSanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>312b71df-df51-4ea7-8198-1c821f30c4fd</testCaseGuid>
+</TestCaseEntity>

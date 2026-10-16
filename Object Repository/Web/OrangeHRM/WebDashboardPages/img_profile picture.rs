@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_profile picture</name>
+   <tag></tag>
+   <elementGuidId>cd76d988-1e9d-4bf9-b107-12262b49e94c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-userdropdown-img ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-userdropdown-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=banner >> internal:role=img[name=&quot;profile picture&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>21edd654-1675-4085-96dd-6861be873c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>profile picture</value>
+      <webElementGuid>6127d833-c032-486c-9b46-7ca70dfc690a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-userdropdown-img</value>
+      <webElementGuid>5e936970-cc1b-4ad3-98c0-47e0d2e612e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/web/index.php/pim/viewPhoto/empNumber/7</value>
+      <webElementGuid>93acbb03-7531-4255-935a-499e61e320be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-baa64fae0286df9aece78fe3b48019cf</value>
+      <webElementGuid>16c3fe27-2533-4314-a1bb-ba4fdc1c808a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-userdropdown-img ')]</value>
+      <webElementGuid>3bf53620-bdda-44c2-8ea0-a45358e5c645</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-userdropdown-img ')]</value>
+      <webElementGuid>ea3d464f-ff3f-4daa-bc5d-f790310a88d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'profile picture' and @src = '/web/index.php/pim/viewPhoto/empNumber/7']</value>
+      <webElementGuid>5eb33ccf-f433-444e-abd4-f23f873cbd3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

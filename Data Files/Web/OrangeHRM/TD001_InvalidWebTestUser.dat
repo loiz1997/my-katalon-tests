@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>test invalid user accounts</description>
+   <name>TD001_InvalidWebTestUser</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d900dd20-3b28-490a-9eec-433f66e8cfe8</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>test001 test001</data>
+   <data>empty ++</data>
+   <data>null null</data>
+   <data>1234 1234</data>
+   <data>_%40%23user %26%25%40</data>
+   <data>incorrectusername incorrectpassword</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>OR_username</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>OR_password</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

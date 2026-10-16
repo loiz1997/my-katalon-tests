@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test open web url</description>
+   <name>OpenWeb</name>
+   <tag>Websmoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2eef49a3-893d-4000-af9a-5e3f953cb3a1</testCaseGuid>
+</TestCaseEntity>

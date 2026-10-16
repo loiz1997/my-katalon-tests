@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check elements in Performance Page are present</description>
+   <name>tc_010PerfomanceUIValidation</name>
+   <tag>WebSanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed7c83d2-e36d-4e52-bff1-10585a54b84a</testCaseGuid>
+</TestCaseEntity>

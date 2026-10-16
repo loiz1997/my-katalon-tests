@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Happy path: log in and open the Recruitment module using reusable keywords.</description>
+   <name>TC_HP_006_Open_Recruitment_Module</name>
+   <tag>GenAI,Web,OrangeHRM,HappyPath</tag>
+   <comment>Uses the five separate OrangeHRM keyword files.</comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e224fa07-8544-4ae8-891d-d046d8c5b74b</testCaseGuid>
+</TestCaseEntity>

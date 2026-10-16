@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify required validation appears when both login fields are blank.</description>
+   <name>TC_NEG_006_Both_Fields_Blank</name>
+   <tag>GenAI,negative,orangehrm,validation</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74c2bd51-592c-4f1c-82ea-64c346611c65</testCaseGuid>
+</TestCaseEntity>

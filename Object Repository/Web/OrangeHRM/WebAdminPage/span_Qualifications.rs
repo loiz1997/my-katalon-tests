@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Qualifications</name>
+   <tag></tag>
+   <elementGuidId>65687354-499b-4730-8761-8125cad089c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and contains(concat(' ', normalize-space(@class), ' '), ' --parent ') and (position() = 4)]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab-item ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-topbar-body-nav-tab.--parent:nth-child(4) span.oxd-topbar-body-nav-tab-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Qualifications&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee048262-3d99-4c46-bc73-392fe201812b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-topbar-body-nav-tab-item</value>
+      <webElementGuid>782b2bba-7a33-45b0-8fa6-1d7eb2ec36ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Qualifications </value>
+      <webElementGuid>b9ee6aac-cdf0-46ea-9f5e-f3c8cb4e95a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1cec6f29da80b7c7eb432b7b93519407</value>
+      <webElementGuid>8ef2f49a-fb0d-4e21-9e5c-671073ec3345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and contains(concat(' ', normalize-space(@class), ' '), ' --parent ') and (position() = 4)]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab-item ')]</value>
+      <webElementGuid>5f0a9caa-5bcd-4bd0-8c35-3f1d618477f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and contains(concat(' ', normalize-space(@class), ' '), ' --parent ') and (position() = 4)]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab-item ')]</value>
+      <webElementGuid>3e835eeb-a530-4ad3-8629-559fcd319898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Qualifications ' or . = 'Qualifications ')]</value>
+      <webElementGuid>048ffaa0-4349-4f5f-bc71-989faa754de5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

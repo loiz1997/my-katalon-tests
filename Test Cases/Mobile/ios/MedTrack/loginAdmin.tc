@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid admin login on the MedTrack iOS app using Object Repository locators and default profile credentials.</description>
+   <name>loginAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4b3e747-8fc8-484f-89fd-1a6e7dd6407a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fee5ca93-f010-448c-8ff8-6249a1612c5e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6da5a29c-94c2-42f0-9e2d-51573e23386e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Mobile/ios/DDT001_medtrackAdminLogin')</defaultValue>
+      <description></description>
+      <id>fee5ca93-f010-448c-8ff8-6249a1612c5e</id>
+      <masked>false</masked>
+      <name>MT_username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Mobile/ios/DDT001_medtrackAdminLogin')</defaultValue>
+      <description></description>
+      <id>6da5a29c-94c2-42f0-9e2d-51573e23386e</id>
+      <masked>false</masked>
+      <name>MT_password</name>
+   </variable>
+</TestCaseEntity>

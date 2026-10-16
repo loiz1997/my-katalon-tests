@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Happy path: log in and open the My Info module using reusable keywords.</description>
+   <name>TC_HP_007_Open_My_Info_Module</name>
+   <tag>GenAI,Web,OrangeHRM,HappyPath</tag>
+   <comment>Uses the five separate OrangeHRM keyword files.</comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7499a99-68d8-4571-9541-b2c57d96377b</testCaseGuid>
+</TestCaseEntity>

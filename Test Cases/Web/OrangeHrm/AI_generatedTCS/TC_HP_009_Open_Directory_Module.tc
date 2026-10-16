@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Happy path: log in and open the Directory module using reusable keywords.</description>
+   <name>TC_HP_009_Open_Directory_Module</name>
+   <tag>GenAI,Web,OrangeHRM,HappyPath</tag>
+   <comment>Uses the five separate OrangeHRM keyword files.</comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e091f46b-bd0c-4520-866c-9ee7e4987366</testCaseGuid>
+</TestCaseEntity>

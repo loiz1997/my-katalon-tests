@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test close browser successfully</description>
+   <name>closeWebBrowser</name>
+   <tag>Websmoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3332f79-8da1-43c2-a41c-fef3a33a0f78</testCaseGuid>
+</TestCaseEntity>

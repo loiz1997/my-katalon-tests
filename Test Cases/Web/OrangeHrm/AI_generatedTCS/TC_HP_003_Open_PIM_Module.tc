@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Happy path: log in and open the PIM module using reusable keywords.</description>
+   <name>TC_HP_003_Open_PIM_Module</name>
+   <tag>GenAI,Web,OrangeHRM,HappyPath</tag>
+   <comment>Uses the five separate OrangeHRM keyword files.</comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6a93c9cb-7e6b-4413-9da0-c66a38b31b41</testCaseGuid>
+</TestCaseEntity>

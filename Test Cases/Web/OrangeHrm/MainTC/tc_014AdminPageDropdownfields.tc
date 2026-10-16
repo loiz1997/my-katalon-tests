@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_014AdminPageDropdownfields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ed334a8-3fea-48fb-a142-efea35bcbfb1</testCaseGuid>
+</TestCaseEntity>

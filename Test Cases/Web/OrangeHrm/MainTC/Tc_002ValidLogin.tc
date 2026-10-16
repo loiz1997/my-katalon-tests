@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test invalid credentials</description>
+   <name>Tc_002ValidLogin</name>
+   <tag>Websmoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f865d000-e3d9-46de-8910-c558281315c9</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.admin_username</defaultValue>
+      <description></description>
+      <id>51bd6729-4362-437d-8184-8f5b83c183e6</id>
+      <masked>false</masked>
+      <name>web_username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.admin_password</defaultValue>
+      <description></description>
+      <id>df0e27fd-a0db-4508-8ac3-2da15a8d24ad</id>
+      <masked>true</masked>
+      <name>web_password</name>
+   </variable>
+</TestCaseEntity>

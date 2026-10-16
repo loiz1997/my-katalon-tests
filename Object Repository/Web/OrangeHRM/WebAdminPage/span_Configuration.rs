@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Configuration</name>
+   <tag></tag>
+   <elementGuidId>ddeee3e5-aa76-4ba5-a1bf-0e41bdcdede3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab-item ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.oxd-topbar-body-nav-tab-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Configuration&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a9e9092c-8391-4915-8462-b6420cf8daf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-topbar-body-nav-tab-item</value>
+      <webElementGuid>9bf92636-26fe-4360-9233-9a7b805cbfb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configuration </value>
+      <webElementGuid>e1746324-7094-4d8e-b05a-547c2ddd25fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-15d3c4e64f5e4b6dda30e7d3ec64b9e3</value>
+      <webElementGuid>90151f36-418a-44e3-bb27-86edeffe94de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab-item ')]</value>
+      <webElementGuid>be3192ca-9803-4f2b-b6f7-fb3be70031c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab-item ')]</value>
+      <webElementGuid>4f4894e1-3a2a-425f-abc3-392122373009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Configuration ' or . = 'Configuration ')]</value>
+      <webElementGuid>c3ca3571-03c4-41a9-82f7-44fe19417e9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

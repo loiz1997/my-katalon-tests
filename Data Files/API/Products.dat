@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Five products for data-driven POST API tests</description>
+   <name>Products</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>d259e74c-73ce-4aec-a4b1-644c57eafdef</dataFileGUID>
+   <driver>CSV</driver>
+   <encoding></encoding>
+   <isInternalPath>true</isInternalPath>
+   <dataSourceUrl>Data Files/API/Products.csv</dataSourceUrl>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

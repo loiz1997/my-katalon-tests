@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check elements in My Info page are present</description>
+   <name>tc_009MyInfoUIValidation</name>
+   <tag>WebSanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87e85e8f-cf55-4f1e-b6d3-1e1f61bb3965</testCaseGuid>
+</TestCaseEntity>
