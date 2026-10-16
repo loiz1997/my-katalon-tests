@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test branch merge to origin</description>
+   <name>stagingTC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f655e48c-485b-4144-a4a5-cc4d3acb30f5</testCaseGuid>
+</TestCaseEntity>
