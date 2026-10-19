@@ -29,6 +29,21 @@ public class GlobalVariable {
      */
     public static Object createdIds
      
+    /**
+     * <p></p>
+     */
+    public static Object web_uname
+     
+    /**
+     * <p></p>
+     */
+    public static Object web_pass
+     
+    /**
+     * <p></p>
+     */
+    public static Object test_user
+     
 
     static {
         try {
@@ -39,6 +54,9 @@ public class GlobalVariable {
             admin_password = selectedVariables['admin_password']
             createdProducts = selectedVariables['createdProducts']
             createdIds = selectedVariables['createdIds']
+            web_uname = selectedVariables['web_uname']
+            web_pass = selectedVariables['web_pass']
+            test_user = selectedVariables['test_user']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)

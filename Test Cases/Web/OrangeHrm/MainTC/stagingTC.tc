@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>test branch merge to origin</description>
+   <description>Logs in to OrangeHRM, opens the Admin page, and verifies the Admin text using AssertionUtils.</description>
    <name>stagingTC</name>
-   <tag></tag>
-   <comment></comment>
+   <tag>GenAI</tag>
+   <comment>Uses the custom com.utils.AssertionUtils.assertTextPresent keyword.</comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>f655e48c-485b-4144-a4a5-cc4d3acb30f5</testCaseGuid>
 </TestCaseEntity>

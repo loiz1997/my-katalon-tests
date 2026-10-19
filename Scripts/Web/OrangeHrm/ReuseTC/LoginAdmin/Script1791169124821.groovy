@@ -27,5 +27,5 @@ WebUI.click(findTestObject('Web/OrangeHRM/WebLoginPages/button_Login'))
 
 WebUI.rightClick(findTestObject('Web/OrangeHRM/WebLoginPages/h6_Dashboard'))
 
-WebUI.assertElementText(findTestObject('Web/OrangeHRM/WebLoginPages/h6_Dashboard'), 'Dashboard', 0)
+WebUI.verifyElementText(findTestObject('Web/OrangeHRM/WebLoginPages/h6_Dashboard'), 'Dashboard', FailureHandling.STOP_ON_FAILURE)
 
