@@ -22,8 +22,8 @@ WebUI.callTestCase(findTestCase('Web/OrangeHrm/ReuseTC/LoginAdmin'), [:], Failur
 WebUI.switchToWindowTitle('OrangeHRM')
 
 WebUI.click(findTestObject('Web/OrangeHRM/Page_OrangeHRM/span_Admin'))
-
-WebUI.click(findTestObject('Web/OrangeHRM/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-text-ar'))
+WebUI.waitForElementClickable(findTestObject('Object Repository/Web/OrangeHRM/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-text-ar'), 10)
+WebUI.click(findTestObject('Object Repository/Web/OrangeHRM/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-text-ar'))
 
 WebUI.rightClick(findTestObject('Web/OrangeHRM/Page_OrangeHRM/div_Admin'))
 
@@ -42,4 +42,6 @@ WebUI.click(findTestObject('Web/OrangeHRM/Page_OrangeHRM/i_oxd-icon bi-caret-dow
 WebUI.rightClick(findTestObject('Web/OrangeHRM/Page_OrangeHRM/div_ESS'))
 
 WebUI.callTestCase(findTestCase('Web/OrangeHrm/ReuseTC/closeWebBrowser'), [:], FailureHandling.STOP_ON_FAILURE)
+
+
 

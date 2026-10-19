@@ -18,6 +18,8 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Web/OrangeHrm/ReuseTC/OpenWeb'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.maximizeWindow()
+
 
 WebUI.setText(findTestObject('Web/OrangeHRM/WebLoginPages/input_Username'), GlobalVariable.admin_username)
 
