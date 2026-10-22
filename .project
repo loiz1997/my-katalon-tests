@@ -15,4 +15,11 @@
 		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-15225999475428824812.groovy</name>
+			<type>1</type>
+			<location>/var/folders/lj/l1yxrwl11sgcyfdxc9rkv4y00000gn/T/Katalon/Web Services/kat-15225999475428824812.groovy</location>
+		</link>
+	</linkedResources>
 </projectDescription>
