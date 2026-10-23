@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Retrieve all objects from https://api.restful-api.dev/objects/ and verify a successful response.</description>
+   <name>GetAllObjects</name>
+   <tag>GenAI,API,Smoke</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c36a1bfe-9ff0-4bee-9c51-589d1b9a7bdd</testCaseGuid>
+</TestCaseEntity>
