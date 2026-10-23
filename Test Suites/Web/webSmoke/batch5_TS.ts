@@ -5,9 +5,9 @@
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <maxConcurrentInstances>1</maxConcurrentInstances>
+   <maxConcurrentInstances>2</maxConcurrentInstances>
    <numberOfRerun>3</numberOfRerun>
-   <orchestration>CLASSIC</orchestration>
+   <orchestration>ISOLATED_PROCESS</orchestration>
    <pageLoadTimeout>10</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>%Users%77qatechteam%Documents%LOIS FILES%TEST AUTOMATION%KATALON%GenericTests%GenericTests.prj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-10063375284938879895.groovy</name>
+			<type>1</type>
+			<location>/var/folders/lj/l1yxrwl11sgcyfdxc9rkv4y00000gn/T/Katalon/Web Services/kat-10063375284938879895.groovy</location>
+		</link>
+		<link>
+			<name>kat-7793759867678574283.groovy</name>
+			<type>1</type>
+			<location>/var/folders/lj/l1yxrwl11sgcyfdxc9rkv4y00000gn/T/Katalon/Web Services/kat-7793759867678574283.groovy</location>
+		</link>
+	</linkedResources>
+</projectDescription>

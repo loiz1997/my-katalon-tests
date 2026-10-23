@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "A8EBD5F10650A7ACA1DF1E23C164A397",
+  "keywordClasses": [
+    {
+      "name": "com.mycustom.keywords.ButtonKeywords",
+      "keywordMethods": [
+        {
+          "name": "assertButtonIsVisible",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n     * This keyword checks if a button is visible on the screen.\n     * \n     * @param to The Test Object of the button you want to check.\n     */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

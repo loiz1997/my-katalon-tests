@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testGlobalVar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de2f70f3-3d86-4dda-90f6-903bfff7bbc8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F1BEE3E8B044F066021F4E4196D283AA",
+  "keywordClasses": [
+    {
+      "name": "com.orangehrm.OrangeHrmCloseKeyword",
+      "keywordMethods": [
+        {
+          "name": "closeApplication",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

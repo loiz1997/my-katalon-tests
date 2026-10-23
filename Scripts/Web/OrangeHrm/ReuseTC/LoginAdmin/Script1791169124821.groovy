@@ -18,6 +18,8 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Web/OrangeHrm/ReuseTC/OpenWeb'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.maximizeWindow()
+
 
 WebUI.setText(findTestObject('Web/OrangeHRM/WebLoginPages/input_Username'), GlobalVariable.admin_username)
 
@@ -27,5 +29,5 @@ WebUI.click(findTestObject('Web/OrangeHRM/WebLoginPages/button_Login'))
 
 WebUI.rightClick(findTestObject('Web/OrangeHRM/WebLoginPages/h6_Dashboard'))
 
-WebUI.assertElementText(findTestObject('Web/OrangeHRM/WebLoginPages/h6_Dashboard'), 'Dashboard', 0)
+WebUI.verifyElementText(findTestObject('Web/OrangeHRM/WebLoginPages/h6_Dashboard'), 'Dashboard', FailureHandling.STOP_ON_FAILURE)
 

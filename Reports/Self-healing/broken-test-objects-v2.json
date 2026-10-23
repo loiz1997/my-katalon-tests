@@ -1,0 +1,64 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Mobile/MedTrack/XCUIElementTypeTextField - Password",
+      "brokenLocator": "//*[@type \u003d \u0027XCUIElementTypeTextField\u0027 and @label \u003d \u0027Password\u0027 and @name \u003d \u0027Password\u0027]",
+      "brokenLocatorMethod": "ATTRIBUTES",
+      "proposedLocator": "type \u003d\u003d \u0027XCUIElementTypeSecureTextField\u0027 AND label \u003d\u003d \u0027Password\u0027 AND name \u003d\u003d \u0027Password\u0027",
+      "proposedLocatorMethod": "IOS_PREDICATE_STRING",
+      "recoveryMethod": "IOS_PREDICATE_STRING",
+      "pathToScreenshot": "/Users/77qatechteam/Documents/LOIS FILES/TEST AUTOMATION/KATALON/GenericTests/Reports/Self-healing/Object Repository/Mobile/MedTrack/XCUIElementTypeTextField - Password_IOS_PREDICATE_STRING.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Mobile/MedTrack/XCUIElementTypeOther - AdminTab 3 of 3",
+      "brokenLocator": "//*[@type \u003d \u0027XCUIElementTypeOther\u0027 and @label \u003d \u0027Admin\nTab 3 of 3\u0027 and @name \u003d \u0027Admin\nTab 3 of 3\u0027]",
+      "brokenLocatorMethod": "ATTRIBUTES",
+      "proposedLocator": "type \u003d\u003d \u0027XCUIElementTypeStaticText\u0027 AND name \u003d\u003d \u0027Admin\\nTab 3 of 3\u0027 AND label \u003d\u003d \u0027Admin\\nTab 3 of 3\u0027",
+      "proposedLocatorMethod": "IOS_PREDICATE_STRING",
+      "recoveryMethod": "IOS_PREDICATE_STRING",
+      "pathToScreenshot": "/Users/77qatechteam/Documents/LOIS FILES/TEST AUTOMATION/KATALON/GenericTests/Reports/Self-healing/Object Repository/Mobile/MedTrack/XCUIElementTypeOther - AdminTab 3 of 3_IOS_PREDICATE_STRING.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Mobile/MedTrackPages/XCUIElementTypeOther - AdminTab 3 of 3",
+      "brokenLocator": "//*[@type \u003d \u0027XCUIElementTypeOther\u0027 and @label \u003d \u0027Admin\nTab 3 of 3\u0027 and @name \u003d \u0027Admin\nTab 3 of 3\u0027]",
+      "brokenLocatorMethod": "ATTRIBUTES",
+      "proposedLocator": "type \u003d\u003d \u0027XCUIElementTypeStaticText\u0027 AND label \u003d\u003d \u0027Admin\\nTab 3 of 3\u0027 AND name \u003d\u003d \u0027Admin\\nTab 3 of 3\u0027",
+      "proposedLocatorMethod": "IOS_PREDICATE_STRING",
+      "recoveryMethod": "IOS_PREDICATE_STRING",
+      "pathToScreenshot": "/Users/77qatechteam/Documents/LOIS FILES/TEST AUTOMATION/KATALON/GenericTests/Reports/Self-healing/Object Repository/Mobile/MedTrackPages/XCUIElementTypeOther - AdminTab 3 of 3_IOS_PREDICATE_STRING.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Mobile/MedTrackPages/XCUIElementTypeTextField - Password",
+      "brokenLocator": "//*[@type \u003d \u0027XCUIElementTypeTextField\u0027 and @label \u003d \u0027Password\u0027 and @name \u003d \u0027Password\u0027]",
+      "brokenLocatorMethod": "ATTRIBUTES",
+      "proposedLocator": "type \u003d\u003d \u0027XCUIElementTypeSecureTextField\u0027 AND name \u003d\u003d \u0027Password\u0027 AND label \u003d\u003d \u0027Password\u0027",
+      "proposedLocatorMethod": "IOS_PREDICATE_STRING",
+      "recoveryMethod": "IOS_PREDICATE_STRING",
+      "pathToScreenshot": "/Users/77qatechteam/Documents/LOIS FILES/TEST AUTOMATION/KATALON/GenericTests/Reports/Self-healing/Object Repository/Mobile/MedTrackPages/XCUIElementTypeTextField - Password_IOS_PREDICATE_STRING.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Web/OrangeHRM/Page_OrangeHRM/span_Configure",
+      "brokenLocator": "//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 oxd-topbar-body-nav-tab \u0027) and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 --parent \u0027) and (position() \u003d 1)]//span[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 oxd-topbar-body-nav-tab-item \u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div/header/div[2]/nav/ul/li[3]/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Web/OrangeHRM/Page_OrangeHRM/span_Configure_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Web/OrangeHRM/Page_OrangeHRM/input_Username_username",
+      "brokenLocator": "//input[@name\u003d\u0027username\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div/div[2]/form/div/div/div/div/div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Web/OrangeHRM/Page_OrangeHRM/input_Username_username_XPATH.png"
+    }
+  ]
+}

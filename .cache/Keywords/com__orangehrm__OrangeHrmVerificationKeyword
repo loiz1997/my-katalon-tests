@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "E0B3B93F47E164B3CE3EC291A4B45A81",
+  "keywordClasses": [
+    {
+      "name": "com.orangehrm.OrangeHrmVerificationKeyword",
+      "keywordMethods": [
+        {
+          "name": "verifyDashboard",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
