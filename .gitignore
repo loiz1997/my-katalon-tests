@@ -22,3 +22,13 @@ build
 /.classpath
 .svn/
 .cache/
+# Local IDE settings
+.idea/
+
+# Playwright generated artifacts
+test-results/
+playwright-report/
+Playwright/OrangeHRM_Playwright_TypeScript/headless-debug.png
+Playwright/OrangeHRM_Playwright_TypeScript/reports/
+Playwright/OrangeHRM_Playwright_TypeScript/test-results/
+Playwright/OrangeHRM_Playwright_TypeScript/playwright-report/

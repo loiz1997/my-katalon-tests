@@ -1,7 +1,21 @@
-node_modules/
+
+# Secrets and environment variables
 .env
 .env.*
-!.env.example
-reports/
-playwright-report/
+
+# Dependencies
+node_modules/
+
+# Playwright generated output
 test-results/
+playwright-report/
+Playwright/OrangeHRM_Playwright_TypeScript/headless-debug.png
+Playwright/OrangeHRM_Playwright_TypeScript/reports/
+Playwright/OrangeHRM_Playwright_TypeScript/test-results/
+Playwright/OrangeHRM_Playwright_TypeScript/playwright-report/
+
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
