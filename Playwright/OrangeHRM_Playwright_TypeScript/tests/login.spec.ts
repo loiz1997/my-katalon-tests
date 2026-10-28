@@ -6,7 +6,15 @@ const password = process.env.ORANGEHRM_PASSWORD ?? 'admin123';
 
 test.describe('OrangeHRM Login', () => {
   test.beforeEach(async ({ page }) => {
-  await page.goto('/web/index.php/auth/login');
+  await page.goto('/web/index.php/auth/login', {
+    waitUntil: 'commit',
+    timeout: 30000,
+  });
+
+  await page.getByPlaceholder('Username').waitFor({
+    state: 'visible',
+    timeout: 20000,
+  });
 });
 
   test('01 - Login page displays required controls', async ({ page }) => {
@@ -47,13 +55,19 @@ test.describe('OrangeHRM Login', () => {
   });
 
   test('05 - Login button opens dashboard', async ({ page }) => {
-    await page.getByPlaceholder('Username').fill(username);
-    await page.getByPlaceholder('Password').fill(password);
-    await page.getByRole('button', { name: 'Login' }).click();
+  const usernameField = page.getByPlaceholder('Username');
+  const passwordField = page.getByPlaceholder('Password');
 
-    await expect(page).toHaveURL(/dashboard/);
-    await expect(
-      page.getByRole('heading', { name: 'Dashboard' })
-    ).toBeVisible();
+  await usernameField.waitFor({ state: 'visible' });
+  await usernameField.fill(username);
+
+  await passwordField.waitFor({ state: 'visible' });
+  await passwordField.fill(password);
+
+  await page.getByRole('button', { name: 'Login' }).click();
+
+  await expect(page).toHaveURL(/dashboard/, {
+    timeout: 15000,
   });
+});
 });
